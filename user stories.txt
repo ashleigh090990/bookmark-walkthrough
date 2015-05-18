@@ -1,0 +1,20 @@
+USER STORIES
+
+
+
+
+As a computer user
+So I can remember an interesting website
+I would like to be able to add their links to the site
+
+As a time pressed computer user
+So that I can quickly find web sites I recently bookmarked
+I would like to see a reverse chronological list of links on the site homepage
+
+As a computer user 
+So that I can store websites according to their genre
+I would like to add tags as I enter their links
+
+As a computer user
+So that I can review links in a particular genre that I've added 
+I would like to be able to filter the links by tags
